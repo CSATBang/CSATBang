@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CSATBang&label=Profile%20Views&color=0e75b6&style=flat" alt="访客计数" />
-</p>
-
 
 ## 👋 Hi, I'm CSATBang
 
@@ -15,14 +11,6 @@
 
 ### 🛠️ 技术栈
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) `(学习中)`
-
----
-
-### 📊 GitHub 统计
-
-<a href="https://github.com/CSATBang">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CSATBang&show_icons=true&theme=default" />
-</a>
 
 ---
 
